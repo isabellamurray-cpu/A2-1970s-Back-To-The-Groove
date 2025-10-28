@@ -5,3 +5,11 @@ Back to the Groove is a coded musical composition created in TunePad, a browser-
 
 # Project Rationale 
 This work was inspired by the structure and sound of 1970s popular music, a decade defined by groove, repetition, and experimentation. By translating these features into Python code, the project investigates how coding can express musical ideas. I used TunePad because it allows quick iteration, visual playback, and layering of multiple musical tracks (drums, bass, chords). This helped me focus on musical logic and creative structure rather than technical setup.
+
+# Resources 
+
+# Screenshots
+
+# Video File
+
+# Reflection
