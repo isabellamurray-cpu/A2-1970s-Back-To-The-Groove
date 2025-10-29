@@ -33,7 +33,8 @@ Magerko, B., & Freeman, J. (2023). Creating Songs with Python. TunePad YouTube C
 
 TunePad. (2023). TunePad Documentation and Tutorials. Retrieved from https://tunepad.com/docs
 
-
+# Appendix
+This appendix includes project progression, concept maps and relevant material from my project.
 
 
 
