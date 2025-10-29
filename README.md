@@ -17,11 +17,17 @@ https://github.com/user-attachments/assets/a549f609-4648-4ded-8468-1a9148412d62
 
 # References
 Collins, N., & D, J. (2017). The Cambridge companion to electronic music. Cambridge University Press.
+
 Dewey, J. (1934). Art as Experience. Minton, Balch & Co.
+
 Eno, B. (1996). Generative Music 1. Opal Music.
+
 Gillespie, R., & Pearce, K. (2021). Coding the Arts: Integrating Creative Practices and Computing. MIT Press.
+
 Katz, M. (2010). Capturing Sound (Rev. ed.). University of California Press. https://doi.org/10.1525/9780520947351
+
 Magerko, B., & Freeman, J. (2023). Creating Songs with Python. TunePad YouTube Channel.
+
 TunePad. (2023). TunePad Documentation and Tutorials. Retrieved from https://tunepad.com/docs
 
 
