@@ -11,5 +11,5 @@ This work was inspired by the structure and sound of 1970s popular music, a deca
 # Screenshots
 
 # Video File
-
+Watch my 3 minute explainer video at: https://youtu.be/p6i0zXSFQPI
 # Reflection
