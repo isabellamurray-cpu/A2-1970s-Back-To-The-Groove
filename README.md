@@ -8,6 +8,9 @@ This work was inspired by the structure and sound of 1970s popular music, a deca
 
 # Screenshots of project
 <img width="1440" height="697" alt="Tunepad1" src="https://github.com/user-attachments/assets/e4456df1-d24f-40b6-9991-349a55a1bb18" />
+<img width="1440" height="699" alt="Screenshot 2025-10-29 at 3 44 20 PM" src="https://github.com/user-attachments/assets/63293c46-8953-420c-9537-b18cfa1f2be6" />
+<img width="1440" height="694" alt="Screenshot 2025-10-29 at 3 44 43 PM" src="https://github.com/user-attachments/assets/7abb1e4a-afd3-4a7e-a25c-2d42be44e7a9" />
+<img width="412" height="563" alt="Screenshot 2025-10-29 at 3 44 57 PM" src="https://github.com/user-attachments/assets/017bc3eb-1e06-430d-aeab-a01272b7d19f" />
 
 # Video File
 Watch my 3 minute explainer video at: https://youtu.be/p6i0zXSFQPI or below
