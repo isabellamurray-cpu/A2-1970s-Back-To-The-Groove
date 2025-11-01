@@ -35,8 +35,8 @@ TunePad. (2023). TunePad Documentation and Tutorials. Retrieved from https://tun
 
 # Appendix
 This appendix includes project progression, concept maps and relevant material from my project.
-![Uploading IMG_2149.jpg…]()
-[Project Journal - WWDAC.pdf](https://github.com/user-attachments/files/23281080/Project.Journal.-.WWDAC.pdf)
+Concept mapping: ![Uploading IMG_2149.jpg…]()
+Project Journal: [Project Journal - WWDAC.pdf](https://github.com/user-attachments/files/23281080/Project.Journal.-.WWDAC.pdf)
 
 
 
