@@ -17,6 +17,7 @@ Watch my 3 minute explainer video at: https://youtu.be/p6i0zXSFQPI or below
 https://github.com/user-attachments/assets/a549f609-4648-4ded-8468-1a9148412d62
 
 # Reflection
+[WWDAC A2.pdf](https://github.com/user-attachments/files/23281089/WWDAC.A2.pdf)
 
 # References
 Collins, N., & D, J. (2017). The Cambridge companion to electronic music. Cambridge University Press.
